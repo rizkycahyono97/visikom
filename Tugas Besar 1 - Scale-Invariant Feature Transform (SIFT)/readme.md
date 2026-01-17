@@ -28,7 +28,7 @@ Pastikan Anda telah menginstal Python 3.x. Library yang digunakan:
     ```bash
     git clone https://github.com/rizkycahyono97/visikom
     cd Tugas Besar 1 - Scale-Invariant Feature Transform (SIFT)
-    python -m venv venv
+    python3 -m venv venv
     . ./venv/bin/activate
     ```
 3.  **Install dependencies:**
@@ -41,5 +41,5 @@ Pastikan Anda telah menginstal Python 3.x. Library yang digunakan:
     - Anda dapat mengubah nama file di dalam `main.py` variabel `file_gambar_1` dan `file_gambar_2`.
 5.  **Jalankan Program:**
     ```bash
-    python main.py
+    python3 code/main.py
     ```
