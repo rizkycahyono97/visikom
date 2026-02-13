@@ -1,4 +1,4 @@
-# Tugas Besar 1: Scale-Invariant Feature Transform (SIFT)
+# UAS MATAKULIAH VISIKOM
 
 **Mata Kuliah: Visi Komputer (T1646746)**
 
