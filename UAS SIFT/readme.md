@@ -1,4 +1,4 @@
-# UAS MATAKULIAH VISIKOM
+# UAS MATAKULIAH VISIKOM (Image Stitching / Panorama)
 
 **Mata Kuliah: Visi Komputer (T1646746)**
 
